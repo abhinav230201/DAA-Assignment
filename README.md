@@ -1,4 +1,4 @@
-# Daa Assingment 
+# DAA Assingment 
 #### Team Members
 
 |Enrollment No.|Name|GithubId|
